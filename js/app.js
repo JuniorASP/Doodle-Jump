@@ -46,9 +46,9 @@ class Platform {
 function start(){
     if (!isGameOver){
 createDoodler();
-createPlatform();
+createPlatforms();
 
 
     }
+    start()
 }
-start();
