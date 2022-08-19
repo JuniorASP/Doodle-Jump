@@ -6,6 +6,7 @@ document.addEventListener('DOMContentLoaded', () => {
     let isGameOver = false
     let platformCount = 5
     let platform = []
+    
 
 
     function createDoodler() {
