@@ -8,21 +8,24 @@
 width: 400px;
 height: 600px;
 position: relative;
-background-color: yellow;
+font-size: 220px;
+text-align: center;
+background-image: url('/background.png');
+font-family: 'Times New Roman', Times, serif;
 
 }
 
 .doodler{
 position: absolute;
-width: 60px;
+width: 85px;
 height: 85px;
-background-color: red;
+background-image: url('/doodler-guy.png');
 
 }
 .platform{
-    width: 85;
-    height: 15;
-    background-color: green;
+    width: 85px;
+    height: 15px;
+    background-image: url('/platform.png');
     position: absolute;
 }
 
